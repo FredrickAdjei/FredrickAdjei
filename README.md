@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-I’m a DevOps and Cloud Engineer.
 
 
 ## 🌐 Socials:
